@@ -6,7 +6,7 @@ function App() {
     <div>
       <header>
         <p>
-          Hello There, this is a test wow
+          Hello There, this is a test wow fantastic
         </p>
       </header>
     </div>
